@@ -3,13 +3,17 @@ The project is a face recognition system implemented using Python and OpenCV. It
 
 # Requirements
 => Deepface
+
 => OpenCV
+
 => Face Recognition
 
 # Commands
 
 pip install deepface
+
 pip install opencv-python
+
 pip install face_recogniton
 
 # Output:
